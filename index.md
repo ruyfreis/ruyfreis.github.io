@@ -1,7 +1,5 @@
 ## Bem-Vindos
 
-[Introdução ao Python via Google Colab](https://youtu.be/2x9op9tcAOM) 
-
 [Canal YouTube](https://youtube.com/user/ruyfreitasr) 
 
 [Twitter](https://twitter.com/ruyfreis)
