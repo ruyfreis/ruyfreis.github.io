@@ -1,4 +1,4 @@
-#Arigos
+# Artigos
 
 * [Characterization of the COVID-19 pandemic and the impact of uncertainties, mitigation strategies, and underreporting of cases in South Korea, Italy, and Brazil](https://www.sciencedirect.com/science/article/abs/pii/S0960077920302885)
 
