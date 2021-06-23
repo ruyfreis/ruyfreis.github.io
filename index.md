@@ -1,6 +1,6 @@
 ## Bem-Vindos
 
-[Nota Técnica 05: Como o estado atual da vacinação no Brasil influencia o controle da pandemia Covid-19?]( http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2021/06/nt05_covid19_pgmc_ufjf_ufsj.pdf)
+[Nota Técnica 05: Como o estado atual da vacinação no Brasil influencia o controle da pandemia COVID-19?]( http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2021/06/nt05_covid19_pgmc_ufjf_ufsj.pdf)
 
 [Pesquisas sobre COVID-19](covid19.md)
 
