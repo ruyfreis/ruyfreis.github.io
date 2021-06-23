@@ -8,11 +8,11 @@
 
 # Notas Técnicas
 
-* [Nota Técnica 05: Como o estado atual da vacinação no Brasil influencia o controle da pandemia Covid-19?](http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2021/06/nt05_covid19_pgmc_ufjf_ufsj.pdf)
+* [Nota Técnica 05: Como o estado atual da vacinação no Brasil influencia o controle da pandemia COVID-19?](http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2021/06/nt05_covid19_pgmc_ufjf_ufsj.pdf)
 
-* [Nota Técnica 04: Como um esquema sólido de vacinação pode controlar a pandemia de Covid-19 no Brasil?](http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2020/03/nt04_covid19_pgmc_ufjf_ufsj.pdf)
+* [Nota Técnica 04: Como um esquema sólido de vacinação pode controlar a pandemia de COVID-19 no Brasil?](http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2020/03/nt04_covid19_pgmc_ufjf_ufsj.pdf)
 
-* [Nota Técnica 03: Impacto das mudanças de políticas de mitigação ao longo do tempo: caracterização e projeções para a pandemia Covid-19 do Brasil, Minas Gerais, Juiz de Fora e São João Del-Rei](http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2020/03/nt03_covid19_pgmc_ufjf2.pdf)
+* [Nota Técnica 03: Impacto das mudanças de políticas de mitigação ao longo do tempo: caracterização e projeções para a pandemia COVID-19 do Brasil, Minas Gerais, Juiz de Fora e São João Del-Rei](http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2020/03/nt03_covid19_pgmc_ufjf2.pdf)
 
 * [Nota Técnica 02: Características e projeções da pandemia COVID-19 no Brasil, Minas Gerais e Juiz de Fora](http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2020/03/nt02_covid19_pgmc_ufjf2.pdf)
 
