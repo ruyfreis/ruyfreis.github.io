@@ -1,6 +1,6 @@
 ## Bem-Vindos
 
-[Pesquisas sobre COVID-19](ruyfreis.github.io/covid19.md)
+[Pesquisas sobre COVID-19](covid19.md)
 
 [Twitter](https://twitter.com/ruyfreis)
 
