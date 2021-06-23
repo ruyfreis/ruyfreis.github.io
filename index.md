@@ -1,5 +1,7 @@
 ## Bem-Vindos
 
+[Nota Técnica 05: Como o estado atual da vacinação no Brasil influencia o controle da pandemia Covid-19?]( http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2021/06/nt05_covid19_pgmc_ufjf_ufsj.pdf)
+
 [Pesquisas sobre COVID-19](covid19.md)
 
 [Twitter](https://twitter.com/ruyfreis)
@@ -7,3 +9,4 @@
 [Lattes](http://lattes.cnpq.br/3218907171568989)
 
 [ResearchGate](https://www.researchgate.net/profile/Ruy-Reis)
+
