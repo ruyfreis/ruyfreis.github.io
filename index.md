@@ -2,6 +2,8 @@
 
 ## Novidades
 
+[A validated mathematical model of the cytokine release syndrome in severe COVID-19](https://www.frontiersin.org/articles/10.3389/fmolb.2021.639423)
+
 [Nota Técnica 05: Como o estado atual da vacinação no Brasil influencia o controle da pandemia COVID-19?]( http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2021/06/nt05_covid19_pgmc_ufjf_ufsj.pdf)
 
 [Pesquisas sobre COVID-19](covid19.md)
