@@ -5,7 +5,7 @@
 * [The Quixotic Task of Forecasting Peaks of COVID-19: Rather Focus on Forward and Backward Projections](https://doi.org/10.3389/fpubh.2021.623521)
 
 * [How Fast Vaccination Can Control the COVID-19 Pandemic in Brazil?](https://link.springer.com/chapter/10.1007%2F978-3-030-77964-1_38)
-* 
+
 * [A validated mathematical model of the cytokine release syndrome in severe COVID-19](http://bit.ly/reis2021validated)
 
 # Notas Técnicas
