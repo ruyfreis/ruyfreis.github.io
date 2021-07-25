@@ -11,6 +11,10 @@
 ## Redes Sociais e Curriculos
 [Twitter](https://twitter.com/ruyfreis)
 
+[Instagram](https://www.instagram.com/prof.ruyfreis/)
+
+[Linkedin](https://www.linkedin.com/in/ruyfreis/)
+
 [Lattes](http://lattes.cnpq.br/3218907171568989)
 
 [ResearchGate](https://www.researchgate.net/profile/Ruy-Reis)
