@@ -10,6 +10,9 @@
 
 * [A validated mathematical model of the cytokine release syndrome in severe COVID-19](http://bit.ly/reis2021validated)
 
+* [Timing the race of vaccination, new variants, and relaxing restrictions during COVID-19 pandemic](https://doi.org/10.1016/j.jocs.2022.101660)
+
+
 # Notas Técnicas
 
 * [Nota Técnica 05: Como o estado atual da vacinação no Brasil influencia o controle da pandemia COVID-19?](http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2021/06/nt05_covid19_pgmc_ufjf_ufsj.pdf)
