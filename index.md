@@ -2,11 +2,11 @@
 
 ## Novidades
 
-[Timing the race of vaccination, new variants, and relaxing restrictions during COVID-19 pandemic](https://doi.org/10.1016/j.jocs.2022.101660)
+[Article: Timing the race of vaccination, new variants, and relaxing restrictions during COVID-19 pandemic](https://doi.org/10.1016/j.jocs.2022.101660)
 
 [Research Topic: Epidemiological Considerations in Covid-19 Forecasting](https://www.frontiersin.org/research-topics/30870/epidemiological-considerations-in-covid-19-forecasting)
 
-[A validated mathematical model of the cytokine release syndrome in severe COVID-19](http://bit.ly/reis2021validated)
+[Article: A validated mathematical model of the cytokine release syndrome in severe COVID-19](http://bit.ly/reis2021validated)
 
 [Nota Técnica 05: Como o estado atual da vacinação no Brasil influencia o controle da pandemia COVID-19?]( http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2021/06/nt05_covid19_pgmc_ufjf_ufsj.pdf)
 
