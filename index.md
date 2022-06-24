@@ -1,5 +1,4 @@
-# Bem-Vindos
-### Welcome
+# Bem-Vindos ### Welcome
 
 ## Novidades
 ### News
