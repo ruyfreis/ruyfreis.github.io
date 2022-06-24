@@ -18,7 +18,7 @@ Ruy Freitas Reis holds a bachelor's degree in Exact Science (2012), Computer Sci
 
 ## COVID-19 research (_Pesquisas sobre COVID-19_)
 
-[COVID-19 research](covid19.md)
+[COVID-19 research](covid19_en.md)
 
 ## Social Networks and Curriculums (_Redes Sociais e Curriculos_)
 
