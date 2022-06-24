@@ -1,18 +1,28 @@
 # Bem-Vindos
+## Welcome
 
 ## Novidades
+### News
 
-[Article: Timing the race of vaccination, new variants, and relaxing restrictions during COVID-19 pandemic](https://doi.org/10.1016/j.jocs.2022.101660)
+[Artigo: A poroelastic approach for modelling myocardial oedema in acute myocarditis](https://www.frontiersin.org/articles/10.3389/fphys.2022.888515)
 
-[Research Topic: Epidemiological Considerations in Covid-19 Forecasting](https://www.frontiersin.org/research-topics/30870/epidemiological-considerations-in-covid-19-forecasting)
+[Artigo: Tissue Damage Control Algorithm for Hyperthermia Based Cancer Treatments](https://doi.org/10.1007/978-3-031-08754-7_57)
 
-[Article: A validated mathematical model of the cytokine release syndrome in severe COVID-19](http://bit.ly/reis2021validated)
+[Artigo: Timing the race of vaccination, new variants, and relaxing restrictions during COVID-19 pandemic](https://doi.org/10.1016/j.jocs.2022.101660)
 
-[Nota Técnica 05: Como o estado atual da vacinação no Brasil influencia o controle da pandemia COVID-19?]( http://www2.ufjf.br/pgmc/wp-content/uploads/sites/236/2021/06/nt05_covid19_pgmc_ufjf_ufsj.pdf)
+[Coletânea: Epidemiological Considerations in Covid-19 Forecasting](https://www.frontiersin.org/research-topics/30870/epidemiological-considerations-in-covid-19-forecasting)
+
+[Artigo: A validated mathematical model of the cytokine release syndrome in severe COVID-19](http://bit.ly/reis2021validated)
+
+
+## Pesquisas sobre COVID-19
+### COVID-19 research
 
 [Pesquisas sobre COVID-19](covid19.md)
 
 ## Redes Sociais e Curriculos
+### Social Networks and Curriculums
+
 [Twitter](https://twitter.com/ruyfreis)
 
 [Instagram](https://www.instagram.com/prof.ruyfreis/)
