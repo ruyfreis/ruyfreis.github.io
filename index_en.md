@@ -1,25 +1,26 @@
-# Bem-Vindos (_Welcome_) [:uk:](https://www.frontiersin.org/articles/10.3389/fphys.2022.888515)
+# Welcome (_Bem-Vindos_) [:brazil:](index.md)
 
-Professor Adjunto do Departamento de Ciência da Computação na Universidade Federal de Juiz de Fora (UFJF). Bacharel em Ciências Exatas(2012), Ciência da Computação(2013) e Engenharia Computacional (2014) pela UFJF. Mestre (2014) e Doutor (2018) em Modelagem Computacional, também pela UFJF. Atuo principalmente em modelagem computacional, biotransferência de calor, imunologia computacional, método das diferenças finitas, método dos volumes finitos, método dos elementos finitos e computação de alto desempenho.
+Ruy Freitas Reis holds a bachelor's degree in Exact Science (2012), Computer Science (2013) and Computational Engineering (2014) at the Universidade Federal de Juiz de Fora (UFJF), a master's degree (2014) and a doctorate (2018) in Computer Modeling at the UFJF as well. He is currently Adjunct Professor in Computer Science Department at the UFJF. He has experience in computational modelling, bioheat, computational immunology, finite difference method, finite volume method, finite element method, distributed, and high-performance computing.
+
 
 ## Novidades (_News_)
 
-[Artigo: A poroelastic approach for modelling myocardial oedema in acute myocarditis](https://www.frontiersin.org/articles/10.3389/fphys.2022.888515)
+[Article: A poroelastic approach for modelling myocardial oedema in acute myocarditis](https://www.frontiersin.org/articles/10.3389/fphys.2022.888515)
 
-[Artigo: Tissue Damage Control Algorithm for Hyperthermia Based Cancer Treatments](https://doi.org/10.1007/978-3-031-08754-7_57)
+[Article: Tissue Damage Control Algorithm for Hyperthermia Based Cancer Treatments](https://doi.org/10.1007/978-3-031-08754-7_57)
 
-[Artigo: Timing the race of vaccination, new variants, and relaxing restrictions during COVID-19 pandemic](https://doi.org/10.1016/j.jocs.2022.101660)
+[Article: Timing the race of vaccination, new variants, and relaxing restrictions during COVID-19 pandemic](https://doi.org/10.1016/j.jocs.2022.101660)
 
-[Coletânea: Epidemiological Considerations in Covid-19 Forecasting](https://www.frontiersin.org/research-topics/30870/epidemiological-considerations-in-covid-19-forecasting)
+[Research Topic: Epidemiological Considerations in Covid-19 Forecasting](https://www.frontiersin.org/research-topics/30870/epidemiological-considerations-in-covid-19-forecasting)
 
-[Artigo: A validated mathematical model of the cytokine release syndrome in severe COVID-19](http://bit.ly/reis2021validated)
+[Article: A validated mathematical model of the cytokine release syndrome in severe COVID-19](http://bit.ly/reis2021validated)
 
 
-## Pesquisas sobre COVID-19 (_COVID-19 research_)
+## COVID-19 research (_Pesquisas sobre COVID-19_)
 
-[Pesquisas sobre COVID-19](covid19.md)
+[COVID-19 research](covid19.md)
 
-## Redes Sociais e Curriculos (_Social Networks and Curriculums_)
+## Social Networks and Curriculums (_Redes Sociais e Curriculos_)
 
 [Twitter](https://twitter.com/ruyfreis)
 
