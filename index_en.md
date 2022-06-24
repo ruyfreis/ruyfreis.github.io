@@ -3,7 +3,7 @@
 Ruy Freitas Reis holds a bachelor's degree in Exact Science (2012), Computer Science (2013) and Computational Engineering (2014) at the Universidade Federal de Juiz de Fora (UFJF), a master's degree (2014) and a doctorate (2018) in Computer Modeling at the UFJF as well. He is currently Adjunct Professor in Computer Science Department at the UFJF. He has experience in computational modelling, bioheat, computational immunology, finite difference method, finite volume method, finite element method, distributed, and high-performance computing.
 
 
-## Novidades (_News_)
+## News (_Novidades_)
 
 [Article: A poroelastic approach for modelling myocardial oedema in acute myocarditis](https://www.frontiersin.org/articles/10.3389/fphys.2022.888515)
 
