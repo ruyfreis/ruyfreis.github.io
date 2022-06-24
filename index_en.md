@@ -1,4 +1,4 @@
-# Welcome (_Bem-Vindos_) [:brazil:](index.md)
+# Welcome (_Bem-Vindos_) [<span>&#x1f1e7;&#x1f1f7;</span>](index.md)
 
 Ruy Freitas Reis holds a bachelor's degree in Exact Science (2012), Computer Science (2013) and Computational Engineering (2014) at the Universidade Federal de Juiz de Fora (UFJF), a master's degree (2014) and a doctorate (2018) in Computer Modeling at the UFJF as well. He is currently Adjunct Professor in Computer Science Department at the UFJF. He has experience in computational modelling, bioheat, computational immunology, finite difference method, finite volume method, finite element method, distributed, and high-performance computing.
 
