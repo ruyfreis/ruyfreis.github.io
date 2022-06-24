@@ -1,7 +1,8 @@
-# Bem-Vindos ### Welcome
+# Bem-Vindos (_Welcome_) [:uk:](index_en.md)
 
-## Novidades
-### News
+Professor Adjunto do Departamento de Ciência da Computação na Universidade Federal de Juiz de Fora (UFJF). Bacharel em Ciências Exatas(2012), Ciência da Computação(2013) e Engenharia Computacional (2014) pela UFJF. Mestre (2014) e Doutor (2018) em Modelagem Computacional, também pela UFJF. Atuo principalmente em modelagem computacional, biotransferência de calor, imunologia computacional, método das diferenças finitas, método dos volumes finitos, método dos elementos finitos e computação de alto desempenho.
+
+## Novidades (_News_)
 
 [Artigo: A poroelastic approach for modelling myocardial oedema in acute myocarditis](https://www.frontiersin.org/articles/10.3389/fphys.2022.888515)
 
@@ -14,13 +15,11 @@
 [Artigo: A validated mathematical model of the cytokine release syndrome in severe COVID-19](http://bit.ly/reis2021validated)
 
 
-## Pesquisas sobre COVID-19
-### COVID-19 research
+## Pesquisas sobre COVID-19 (_COVID-19 research_)
 
 [Pesquisas sobre COVID-19](covid19.md)
 
-## Redes Sociais e Curriculos
-### Social Networks and Curriculums
+## Redes Sociais e Curriculos (_Social Networks and Curriculums_)
 
 [Twitter](https://twitter.com/ruyfreis)
 
