@@ -5,16 +5,15 @@ Ruy Freitas Reis holds a bachelor's degree in Exact Science (2012), Computer Sci
 
 ## News (_Novidades_)
 
+[Article: A 3D Approach Using a Control Algorithm to Minimize the Effects on the Healthy Tissue in the Hyperthermia for Cancer Treatment](http://dx.doi.org/10.3390/e25040684)
+
+[Editorial: Epidemiological considerations in COVID-19 forecasting](http://dx.doi.org/10.3389/fepid.2022.1119559)
+
+[Article: Finite Element Methods for Large-Strain Poroelasticity/Chemotaxis Models Simulating the Formation of Myocardial Oedema](http://dx.doi.org/10.1007/s10915-022-01944-2)
+
 [Article: A poroelastic approach for modelling myocardial oedema in acute myocarditis](https://www.frontiersin.org/articles/10.3389/fphys.2022.888515)
 
 [Article: Tissue Damage Control Algorithm for Hyperthermia Based Cancer Treatments](https://doi.org/10.1007/978-3-031-08754-7_57)
-
-[Article: Timing the race of vaccination, new variants, and relaxing restrictions during COVID-19 pandemic](https://doi.org/10.1016/j.jocs.2022.101660)
-
-[Research Topic: Epidemiological Considerations in Covid-19 Forecasting](https://www.frontiersin.org/research-topics/30870/epidemiological-considerations-in-covid-19-forecasting)
-
-[Article: A validated mathematical model of the cytokine release syndrome in severe COVID-19](http://bit.ly/reis2021validated)
-
 
 ## COVID-19 research (_Pesquisas sobre COVID-19_)
 
