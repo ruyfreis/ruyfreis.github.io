@@ -4,15 +4,15 @@ Ruy Freitas Reis é professor Adjunto do Departamento de Ciência da Computaçã
 
 ## Novidades (_News_)
 
+[Artigo: A 3D Approach Using a Control Algorithm to Minimize the Effects on the Healthy Tissue in the Hyperthermia for Cancer Treatment](http://dx.doi.org/10.3390/e25040684)
+
+[Editorial: Epidemiological considerations in COVID-19 forecasting](http://dx.doi.org/10.3389/fepid.2022.1119559)
+
+[Artigo: Finite Element Methods for Large-Strain Poroelasticity/Chemotaxis Models Simulating the Formation of Myocardial Oedema](http://dx.doi.org/10.1007/s10915-022-01944-2)
+
 [Artigo: A poroelastic approach for modelling myocardial oedema in acute myocarditis](https://www.frontiersin.org/articles/10.3389/fphys.2022.888515)
 
 [Artigo: Tissue Damage Control Algorithm for Hyperthermia Based Cancer Treatments](https://doi.org/10.1007/978-3-031-08754-7_57)
-
-[Artigo: Timing the race of vaccination, new variants, and relaxing restrictions during COVID-19 pandemic](https://doi.org/10.1016/j.jocs.2022.101660)
-
-[Coletânea: Epidemiological Considerations in Covid-19 Forecasting](https://www.frontiersin.org/research-topics/30870/epidemiological-considerations-in-covid-19-forecasting)
-
-[Artigo: A validated mathematical model of the cytokine release syndrome in severe COVID-19](http://bit.ly/reis2021validated)
 
 
 ## Pesquisas sobre COVID-19 (_COVID-19 research_)
