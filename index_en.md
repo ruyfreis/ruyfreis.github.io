@@ -21,6 +21,8 @@ Ruy Freitas Reis holds a bachelor's degree in Exact Science (2012), Computer Sci
 
 ## Social Networks and Curriculums (_Redes Sociais e Curriculos_)
 
+[GitHub Repo](https://github.com/ruyfreis)
+
 [Twitter](https://twitter.com/ruyfreis)
 
 [Instagram](https://www.instagram.com/prof.ruyfreis/)
