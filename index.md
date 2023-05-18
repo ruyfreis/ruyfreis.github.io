@@ -14,12 +14,13 @@ Ruy Freitas Reis é professor Adjunto do Departamento de Ciência da Computaçã
 
 [Artigo: Tissue Damage Control Algorithm for Hyperthermia Based Cancer Treatments](https://doi.org/10.1007/978-3-031-08754-7_57)
 
-
 ## Pesquisas sobre COVID-19 (_COVID-19 research_)
 
 [Pesquisas sobre COVID-19](covid19.md)
 
 ## Redes Sociais e Curriculos (_Social Networks and Curriculums_)
+
+[GitHub Repo](https://github.com/ruyfreis)
 
 [Twitter](https://twitter.com/ruyfreis)
 
