@@ -4,6 +4,8 @@ Ruy Freitas Reis é professor Adjunto do Departamento de Ciência da Computaçã
 
 ## Novidades (_News_)
 
+[Artigo: Influence of the Capillaries Bed in Hyperthermia for Cancer Treatment](https://doi.org/10.1007/978-3-031-36021-3_60)
+
 [Artigo: A 3D Approach Using a Control Algorithm to Minimize the Effects on the Healthy Tissue in the Hyperthermia for Cancer Treatment](http://dx.doi.org/10.3390/e25040684)
 
 [Editorial: Epidemiological considerations in COVID-19 forecasting](http://dx.doi.org/10.3389/fepid.2022.1119559)
@@ -11,8 +13,6 @@ Ruy Freitas Reis é professor Adjunto do Departamento de Ciência da Computaçã
 [Artigo: Finite Element Methods for Large-Strain Poroelasticity/Chemotaxis Models Simulating the Formation of Myocardial Oedema](http://dx.doi.org/10.1007/s10915-022-01944-2)
 
 [Artigo: A poroelastic approach for modelling myocardial oedema in acute myocarditis](https://www.frontiersin.org/articles/10.3389/fphys.2022.888515)
-
-[Artigo: Tissue Damage Control Algorithm for Hyperthermia Based Cancer Treatments](https://doi.org/10.1007/978-3-031-08754-7_57)
 
 ## Pesquisas sobre COVID-19 (_COVID-19 research_)
 
