@@ -15,8 +15,6 @@ Ruy Freitas Reis holds a bachelor's degree in Exact Science (2012), Computer Sci
 
 [Article: A poroelastic approach for modelling myocardial oedema in acute myocarditis](https://www.frontiersin.org/articles/10.3389/fphys.2022.888515)
 
-[Article: Tissue Damage Control Algorithm for Hyperthermia Based Cancer Treatments](https://doi.org/10.1007/978-3-031-08754-7_57)
-
 ## COVID-19 research (_Pesquisas sobre COVID-19_)
 
 [COVID-19 research](covid19_en.md)
