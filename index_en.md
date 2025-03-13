@@ -9,11 +9,12 @@ Ruy Freitas Reis holds a bachelor's degree in Exact Science (2012), Computer Sci
 
 [Article: A Coupled Model of the Cardiovascular and Immune Systems to Analyze the Effects of COVID-19 Infection](https://doi.org/10.3390/biotech14010019)
 
+[Article: Mathematical analysis and a nonstandard scheme for a model of the immune response against COVID-19](http://dx.doi.org/10.1090/conm/793/15881)
+
 [Article: A 3D Approach Using a Control Algorithm to Minimize the Effects on the Healthy Tissue in the Hyperthermia for Cancer Treatment](http://dx.doi.org/10.3390/e25040684)
 
 [Article: Finite Element Methods for Large-Strain Poroelasticity/Chemotaxis Models Simulating the Formation of Myocardial Oedema](http://dx.doi.org/10.1007/s10915-022-01944-2)
 
-[Article: A poroelastic approach for modelling myocardial oedema in acute myocarditis](https://www.frontiersin.org/articles/10.3389/fphys.2022.888515)
 
 ## COVID-19 research (_Pesquisas sobre COVID-19_)
 
