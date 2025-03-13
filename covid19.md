@@ -12,6 +12,10 @@
 
 * [Timing the race of vaccination, new variants, and relaxing restrictions during COVID-19 pandemic](https://doi.org/10.1016/j.jocs.2022.101660)
 
+* [Mathematical analysis and a nonstandard scheme for a model of the immune response against COVID-19](http://dx.doi.org/10.1090/conm/793/15881)
+
+* [A Coupled Model of the Cardiovascular and Immune Systems to Analyze the Effects of COVID-19 Infection](https://doi.org/10.3390/biotech14010019)
+
 
 # Notas Técnicas
 
