@@ -14,7 +14,7 @@ Ruy Freitas Reis é professor Adjunto do Departamento de Ciência da Computaçã
 
 [Artigo: A Coupled Model of the Cardiovascular and Immune Systems to Analyze the Effects of COVID-19 Infection](https://doi.org/10.3390/biotech14010019)
 
-[Artigo: Mathematical analysis and a nonstandard scheme for a model of the immune response against COVID-19](http://dx.doi.org/10.1090/conm/793/15881)
+[Capítulo: Mathematical analysis and a nonstandard scheme for a model of the immune response against COVID-19](http://dx.doi.org/10.1090/conm/793/15881)
 
 [Artigo: A 3D Approach Using a Control Algorithm to Minimize the Effects on the Healthy Tissue in the Hyperthermia for Cancer Treatment](http://dx.doi.org/10.3390/e25040684)
 
