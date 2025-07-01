@@ -4,6 +4,12 @@ Ruy Freitas Reis é professor Adjunto do Departamento de Ciência da Computaçã
 
 ## Novidades (_News_)
 
+[Artigo: Impact of inaccuracies of injection positioning for hyperthermia treatment for cancer](http://dx.doi.org/10.1016/j.cam.2025.116780)
+
+ [Artigo: Adaptive load balancing for heterogeneous systems: A performance-guided approach for 3D hydro-mechanical modeling of edema formation](http://dx.doi.org/10.1016/j.cam.2025.116770)
+
+[Artigo: Impact of inaccuracies of injection positioning for hyperthermia treatment for cancer](http://dx.doi.org/10.1016/j.cam.2025.116780)
+
 [Artigo: Influence of blood-related parameters for hyperthermia-based treatments for cancer](https://doi.org/10.1016/j.jocs.2025.102556)
 
 [Artigo: A Coupled Model of the Cardiovascular and Immune Systems to Analyze the Effects of COVID-19 Infection](https://doi.org/10.3390/biotech14010019)
