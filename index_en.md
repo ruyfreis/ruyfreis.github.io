@@ -5,11 +5,15 @@ Ruy Freitas Reis holds a bachelor's degree in Exact Science (2012), Computer Sci
 
 ## News (_Novidades_)
 
+[Article: Impact of inaccuracies of injection positioning for hyperthermia treatment for cancer](http://dx.doi.org/10.1016/j.cam.2025.116780)
+
+[Article: Adaptive load balancing for heterogeneous systems: A performance-guided approach for 3D hydro-mechanical modeling of edema formation](http://dx.doi.org/10.1016/j.cam.2025.116770)
+
 [Article: Influence of blood-related parameters for hyperthermia-based treatments for cancer](https://doi.org/10.1016/j.jocs.2025.102556)
 
 [Article: A Coupled Model of the Cardiovascular and Immune Systems to Analyze the Effects of COVID-19 Infection](https://doi.org/10.3390/biotech14010019)
 
-[Article: Mathematical analysis and a nonstandard scheme for a model of the immune response against COVID-19](http://dx.doi.org/10.1090/conm/793/15881)
+[Chapter: Mathematical analysis and a nonstandard scheme for a model of the immune response against COVID-19](http://dx.doi.org/10.1090/conm/793/15881)
 
 [Article: A 3D Approach Using a Control Algorithm to Minimize the Effects on the Healthy Tissue in the Hyperthermia for Cancer Treatment](http://dx.doi.org/10.3390/e25040684)
 
