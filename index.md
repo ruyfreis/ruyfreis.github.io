@@ -1,6 +1,8 @@
 # Bem-Vindos (_Welcome_) [🇬🇧](index_en.md)
 
-Ruy Freitas Reis é professor Adjunto do Departamento de Ciência da Computação na Universidade Federal de Juiz de Fora (UFJF). Bacharel em Ciências Exatas(2012), Ciência da Computação(2013) e Engenharia Computacional (2014) pela UFJF. Mestre (2014) e Doutor (2018) em Modelagem Computacional, também pela UFJF. Atuo principalmente em modelagem computacional, biotransferência de calor, imunologia computacional, método das diferenças finitas, método dos volumes finitos, método dos elementos finitos e computação de alto desempenho.
+Ruy Freitas Reis é Professor Adjunto do Departamento de Ciência da Computação da Universidade Federal de Juiz de Fora (UFJF). Possui bacharelado em Ciências Exatas (2012), Ciência da Computação (2013) e Engenharia Computacional (2014), todos pela UFJF. É mestre (2014) e doutor (2018) em Modelagem Computacional pela mesma instituição.
+
+Tem experiência nas áreas de modelagem computacional, biotransferência de calor, imunologia computacional, métodos das diferenças finitas, volumes finitos e elementos finitos, computação de alto desempenho e métodos baseados em Monte Carlo.
 
 ## Novidades (_News_)
 
