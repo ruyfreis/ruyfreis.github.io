@@ -1,8 +1,8 @@
 # Welcome (_Bem-Vindos_) [<span>&#x1f1e7;&#x1f1f7;</span>](index.md)
 
-Ruy Freitas Reis holds bachelor's degrees in Exact Sciences (2012), Computer Science (2013), and Computational Engineering (2014) from the Federal University of Juiz de Fora (UFJF). He also earned a master’s degree (2014) and a Ph.D. (2018) in Computational Modeling from the same institution. He is currently a professor in the Department of Computer Science at UFJF.
+Ruy Freitas Reis is a permanent Professor in the Department of Computer Science at the Federal University of Juiz de Fora (UFJF). He holds bachelor's degrees in Exact Sciences (2012), Computer Science (2013), and Computational Engineering (2014), all from UFJF. He obtained his Master's degree (2014) and PhD (2018) in Computational Modeling from the same institution. He has experience in computational modeling, bioheat transfer, computational immunology, finite difference, finite volume, and finite element methods, high-performance computing, and Monte Carlo methods. 
 
-His research interests include computational modeling, bioheat transfer, computational immunology, finite difference, finite volume, and finite element methods, Monte Carlo-based methods, as well as distributed and high-performance computing.
+His recent research focuses on applying biomedical engineering and scientific computing methods to model complex biological systems, with an emphasis on immune responses to infectious diseases, inflammatory processes, and associated physiological phenomena. He develops and analyzes mechanistic mathematical models of the Human Immune System and hemodynamic processes, integrating uncertainty quantification, global sensitivity analysis, and parameter calibration using experimental and clinical data. His work aims to increase the reliability, interpretability, and potential use of computational models as quantitative decision-support tools in biomedical and public health contexts, characterizing a consistent activity at the interface of Biomedical Engineering, Computational Modeling, and High-Performance Computing.
 
 
 ## News (_Novidades_)
